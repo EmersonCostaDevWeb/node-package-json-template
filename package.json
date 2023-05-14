@@ -1,0 +1,25 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "buscabrasil":"node index.js Brazil",
+    "buscaletrab":"node index.js B",
+    "nome":"node nome.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmersonCostaDevWeb/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmersonCostaDevWeb/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/EmersonCostaDevWeb/node-package-json-template#readme"
+}
