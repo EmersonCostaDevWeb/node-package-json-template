@@ -1,6 +1,6 @@
 # Node.js e package.json - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
-
+# REALIZADO
 ## Instruções para baixar
 
 1. Faça o fork desse repositório.
